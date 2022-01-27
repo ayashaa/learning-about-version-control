@@ -1,2 +1,2 @@
-# learning-about-version-control
-DSCI 310 assignment 2
+# Learning about Version Control
+Ayasha Abdalla-Wyse
